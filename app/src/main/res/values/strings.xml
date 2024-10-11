@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeTutorial</string>
+    <string name="title">Welcome to Smaple Screen!</string>
+    <string name="subtitle">Here is our product.</string>
+    <string name="body">Jackpack compose is a strong android develpment library.</string>
+    <string name="confirm">Confirm</string>
+    <string name="title_activity_sample">SampleActivity</string>
+    <string name="title_activity_questions">QuestionsActivity</string>
+    <string name="des">လက်ထောက်ဗေဒင်</string>
+    <string name="des2">သိလိုသော မေးခွန်းအား ရှာဖွေပါ...</string>
+    <string name="title_activity_choose_answer">ChooseAnswerActivity</string>
+    <string name="tv_question">ဇနီးမောင်နှံ၌ သားသမီးရကိန်းနှင့် ပတ်သက်သော အဟော။</string>
+    <string name="title_activity_answer">AnswerActivity</string>
+</resources>
